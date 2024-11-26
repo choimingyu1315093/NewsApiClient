@@ -1,0 +1,266 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Adam Teicher",
+      "title": "Mahomes wants 'blowouts' after another walk-off - ESPN",
+      "description": "Patrick Mahomes said he \"would love to win a game [before] the very last play'' after the Chiefs beat the Panthers on a field goal as time expired Sunday.",
+      "url": "https://www.espn.com/nfl/story/_/id/42590469/mahomes-seeks-calmer-endings-another-chiefs-walk-off",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1124%2Fr1419074_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-11-24T23:56:00Z",
+      "content": "CHARLOTTE, N.C. -- After the Kansas City Chiefs secured their fifth walk-off victory of the season Sunday, quarterback Patrick Mahomes said he will take the wins any way he can get them but would rat… [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun, Dan Diamond, Rachel Roubein, Fenit Nirappil",
+      "title": "Trump health picks largely untested in fighting disease outbreaks - The Washington Post",
+      "description": "They have questioned vaccines and other interventions overseen by the health agencies they have been tapped to lead.",
+      "url": "https://www.washingtonpost.com/health/2024/11/24/trump-cdc-fda-surgeon-general/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6MDFHCPEEI63LNIATTONP4LDE.jpg&w=1440",
+      "publishedAt": "2024-11-24T23:31:47Z",
+      "content": "When the next pandemic strikes, Americans will again depend on a cadre of senior health officials to steer the nations response and reassure the public. But the team rapidly assembled by President-el… [+14141 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "After Russian ship docks to space station, astronauts report a foul smell - Ars Technica",
+      "description": "Cosmonauts aboard the Russian segment of the station donned protective equipment.",
+      "url": "https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg",
+      "publishedAt": "2024-11-24T23:12:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Marcia Dunn, Associated Press",
+      "title": "Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon - KSL.com",
+      "description": "Earth is parting company with an asteroid that's been tagging along as a \"mini moon\" for the past two months. The harmless space rock will peel away on Monday.",
+      "url": "https://www.ksl.com/article/51197184/earth-bids-farewell-to-its-temporary-mini-moon-that-is-possibly-a-chunk-of-our-actual-moon",
+      "urlToImage": "https://img.ksl.com/slc/3027/302758/30275866.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2024-11-24T23:07:03Z",
+      "content": "CAPE CANAVERAL, Fla. Planet Earth is parting company with an asteroid that's been tagging along as a \"mini moon\" for the past two months.\r\nThe harmless space rock will peel away on Monday, overcome b… [+1722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Niners Nation"
+      },
+      "author": "Kyle Posey",
+      "title": "49ers vs. Packers 3rd quarter thread: It’s better to be lucky than good - Niners Nation",
+      "description": "Just ask Isaac Yiadom",
+      "url": "https://www.ninersnation.com/2024/11/24/24305048/49ers-vs-packers-3rd-quarter-thread-its-better-to-be-lucky-than-good",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/c51huQniPSpgZU3clw5LlI7oPNg=/0x0:5400x2827/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25753256/2185296361.jpg",
+      "publishedAt": "2024-11-24T22:53:38Z",
+      "content": "Kyle Shanahan picked a great time to call a trick play. A double reverse pass to Deebo Samuel gained 21 yards. Puni would have yet another penalty on 3rd &amp; short. It looked as though Brendel The … [+681 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Tortilla strips in 22 states contain wheat allergen contamination: FDA - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Food/tortilla-strips-22-states-wheat-allergen-contamination-fda/story?id\\\\u003d116182939",
+      "urlToImage": null,
+      "publishedAt": "2024-11-24T22:42:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Christian Arnold",
+      "title": "Commanders botch game-tying extra point after miracle TD as kicker has brutal day in loss to Cowboys - New York Post ",
+      "description": "Austin Seibert shanked the extra point after a bad snap and rushed hold. Dallas returned an onside kick on the ensuing kickoff for a touchdown to cap a crushing 34-26 loss for Washington at Northwe…",
+      "url": "https://nypost.com/2024/11/24/sports/commanders-austin-seibert-misses-extra-point-in-loss-to-cowboys/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-sl9y29x2q-1732486520988.jpg?quality=75&strip=all&1732468643&w=1024",
+      "publishedAt": "2024-11-24T22:30:00Z",
+      "content": "Talk about tough ways to lose for the Commanders.\r\nWashington managed to score a late fourth-quarter touchdown with less than a minute on the clock to pull within one point of the Cowboys. \r\nBut Aust… [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Victor Jack, Carmen Paun",
+      "title": "Romania election stunner: Unexpected hard-right candidate now set to reach presidential runoff - POLITICO Europe",
+      "description": "Ultranationalist Călin Georgescu comes from nowhere to lead center-left PM Marcel Ciolacu and liberal Elena Lasconi in first round.",
+      "url": "https://www.politico.eu/article/romania-election-stunner-who-is-calin-georgescu-marcel-ciolacu/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/24/iStock-1739253602.jpg",
+      "publishedAt": "2024-11-24T21:59:00Z",
+      "content": "Georgescu is a university professor and international consultant on sustainable development, who worked for different United Nations organizations for more than a dozen years.\r\nHe leveraged TikTok to… [+1097 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Emily Mae Czachor",
+      "title": "Couple charged for allegedly stealing $1 million from Lululemon in convoluted retail theft scheme - CBS News",
+      "description": "A couple from Connecticut is charged with allegedly orchestrating a retail theft operation that may have cost Lululemon as much as $1 million.",
+      "url": "https://www.cbsnews.com/news/jadion-richards-akwele-lawes-richards-couple-charged-lululemon-theft-scheme-1-million/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/22/c1812ea2-37d5-48f3-b51c-9e6675874d94/thumbnail/1200x630/2447a5949a6bcb789235615c6e84032e/ap22203535591448.jpg?v=b1635869826311f914073798d8df6484",
+      "publishedAt": "2024-11-24T21:30:33Z",
+      "content": "A couple from Connecticut faces charges for allegedly taking part in an intricate retail theft operation targeting the apparel company Lululemon that may have amounted to $1 million worth of stolen i… [+3926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-24T21:30:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Hezbollah hits Israel with heaviest barrage in weeks - POLITICO",
+      "description": "Negotiators pressed on with cease-fire efforts.",
+      "url": "https://www.politico.com/news/2024/11/24/hezbollah-hits-israel-heaviest-barrage-weeks-00191423",
+      "urlToImage": "https://static.politico.com/43/e3/c490e7b849a1a04fc6732bafd77d/israel-lebanon-43859.jpg",
+      "publishedAt": "2024-11-24T21:06:08Z",
+      "content": "Israeli strikes have killed over 40 Lebanese troops since the start of the war between Israel and Hezbollah, even as Lebanons military has largely kept to the sidelines.\r\nLebanons caretaker prime min… [+4785 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Alice Miranda Ollstein, Adam Cancryn",
+      "title": "Trump team barred from agencies amid legal standoff - POLITICO",
+      "description": "Federal agencies have yet to hear from their future bosses.",
+      "url": "https://www.politico.com/news/2024/11/23/trump-team-barred-from-agencies-amid-legal-standoff-00191399",
+      "urlToImage": "https://static.politico.com/ce/db/5b25d93d4e3ab947e71d4a764b4a/trump-transition-lutnick-16551.jpg",
+      "publishedAt": "2024-11-24T21:00:00Z",
+      "content": "Both the Trump transition and the White House confirmed to POLITICO that negotiations on the agreements are still underway. But until the standoff is resolved, Trumps Cabinet nominees will gain no mo… [+9014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "",
+      "title": "NASA to make lunar cargo delivery awards to Blue Origin and SpaceX - SpaceNews",
+      "description": "NASA plans to use cargo versions of Artemis lunar landers under development by Blue Origin and SpaceX to deliver a pressurized rover and surface habitat to the lunar surface in the early 2030s.",
+      "url": "https://spacenews.com/nasa-to-make-lunar-cargo-delivery-awards-to-blue-origin-and-spacex/",
+      "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/cargolanders.jpg?resize=1200%2C409&ssl=1",
+      "publishedAt": "2024-11-24T20:07:38Z",
+      "content": "BERLIN NASA plans to use cargo versions of Artemis lunar landers under development by Blue Origin and SpaceX to deliver a pressurized rover and surface habitat to the lunar surface in the early 2030s… [+2265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-24T19:22:38Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dexerto"
+      },
+      "author": "Carver Fisher",
+      "title": "Massive LoL leak reveals Noxus-themed season & 2025 Arcane champion - Dexerto",
+      "description": "A huge League of Legends leak has revealed a Noxus season coming in 2025, complete with a new jungle boss and another Arcane champion.",
+      "url": "https://www.dexerto.com/league-of-legends/massive-lol-leak-reveals-noxus-themed-season-2025-arcane-champion-2988894/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/11/24/League-of-Legends-noxus-season.jpg",
+      "publishedAt": "2024-11-24T19:03:51Z",
+      "content": "A huge League of Legends leak has confirmed a number of things coming to the game from Arcanes second season in 2025, including a full Viktor visual and gameplay rework, a Noxus-themed season in 2025… [+2869 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Gunmen in southeast Mexico open fire in a bar killing 6 and injuring 5 - CBS News",
+      "description": "The shooting took place in the coastal province of Tabasco, which is struggling with a recent increase in violence.",
+      "url": "https://www.cbsnews.com/news/mexico-gunmen-bar-violence/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/24/96043559-fac2-4716-b459-cce213f0f10a/thumbnail/1200x630/87ce52abc8fe38b100a14ac89c85a900/gettyimages-2179949754.jpg?v=b1635869826311f914073798d8df6484",
+      "publishedAt": "2024-11-24T18:53:38Z",
+      "content": "Gunmen opened fire early Sunday at a bar in southeast Mexico, killing six people and injuring at least five others.\r\nThe shooting took place in the coastal province of Tabasco, which is struggling wi… [+1625 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ADRIANA GOMEZ LICON",
+      "title": "Republicans lash out at Democrats' claims that Trump intelligence pick Gabbard is 'compromised' - The Associated Press",
+      "description": "Republican lawmakers are pushing back against criticism from some Democrats that President-elect Donald Trump’s pick to lead U.S. intelligence services is “compromised” by her comments supportive of Russia and a meeting with an ally of that country. The accus…",
+      "url": "https://apnews.com/article/trump-tulsi-gabbard-intelligence-director-russia-putin-0f661dd39bd16e248b16c049e6aa26c5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f8459c9/2147483647/strip/true/crop/4934x2775+0+259/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2F2d%2F9377bb8bea615d7b39d4cfd1b331%2F73d4931d221343a9ba8904c65ec008be",
+      "publishedAt": "2024-11-24T18:39:00Z",
+      "content": "FORT LAUDERDALE, Fla. (AP) Republican senators pushed back on Sunday against criticism from Democrats that Tulsi Gabbard, Donald Trumps pick to lead U.S. intelligence services, is compromised by her … [+3489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Gregory Meyer",
+      "title": "US retailers stretch out Black Friday deals to lure flagging shoppers - Financial Times",
+      "description": "Spending is key driver of US economy but shows signs of slowing as impact of past inflation lingers",
+      "url": "https://www.ft.com/content/2dc40ef5-c053-4d14-a693-a00b0982c887",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedc50206-0a85-480a-b90f-2fae5299ab1e.jpg?source=next-barrier-page",
+      "publishedAt": "2024-11-24T18:27:22Z",
+      "content": "Get complete digital access\r\n$75 per month\r\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Rebecca Rubin",
+      "title": "‘Wicked’ Leads Global Box Office With $164 Million, ‘Gladiator II’ Surpasses $220 Million Worldwide - Variety",
+      "description": "\"Wicked\" debuted to $164.2 million at the global box office, a towering figure that includes $50.1 million in overseas ticket sales.",
+      "url": "https://variety.com/2024/film/box-office/wicked-leads-global-box-office-gladiator-2-surpasses-220-million-1236222028/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/gladiator-2_222978.png?w=1000&h=563&crop=1",
+      "publishedAt": "2024-11-24T18:12:00Z",
+      "content": "“Wicked” debuted to $164.2 million at the global box office, a towering figure that includes $50.1 million in overseas ticket sales. Universal’s big-budget adaptation of the hit musical was far bigge… [+2629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Rabbi Zvi Kogan was murdered in UAE, Israel says - BBC.com",
+      "description": "The Israeli-Moldovan national went missing on Thursday, sparking a joint Mossad and Emirates investigation.",
+      "url": "https://www.bbc.com/news/articles/cwy4j5j7503o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a329/live/fbb513d0-aa3d-11ef-b439-f3906715f55d.jpg",
+      "publishedAt": "2024-11-24T18:06:38Z",
+      "content": "Israel says a rabbi who went missing in the United Arab Emirates has been murdered, and have vowed to track down his killers.\r\nThe murder of Zvi Kogan is a criminal antisemitic terrorist incident. Th… [+2081 chars]"
+    }
+  ],
+  "status": "ok",
+  "totalResults": 36
+}
