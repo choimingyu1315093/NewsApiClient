@@ -10,6 +10,7 @@ import okio.source
 import org.junit.After
 import org.junit.Before
 import org.junit.Test
+import org.junit.runner.RunWith
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
@@ -39,35 +40,29 @@ class NewsApiClientTest {
     }
 
     @Test
-    fun getTopHeadlinesTest(){
-        runBlocking {
-            enqueueMockResponse("newsresponse.json")
-            val responseBody = service.getTopHeadlines("us", 1).body()
-            val request = server.takeRequest()
-            Truth.assertThat(responseBody).isNotNull()
-            Truth.assertThat(request.path).isEqualTo("/v2/top-headlines?country=us&page=1&apiKey=${BuildConfig.API_KEY}")
-        }
+    fun getTopHeadlinesTest() = runBlocking {
+        enqueueMockResponse("newsresponse.json")
+        val responseBody = service.getTopHeadlines("us", 1).body()
+        val request = server.takeRequest()
+        Truth.assertThat(responseBody).isNotNull()
+        Truth.assertThat(request.path).isEqualTo("/v2/top-headlines?country=us&page=1&apiKey=${BuildConfig.API_KEY}")
     }
 
     @Test
-    fun getTopHeadlinesCorrectPage(){
-        runBlocking {
-            enqueueMockResponse("newsresponse.json")
-            val responseBody = service.getTopHeadlines("us", 1).body()
-            val articleList = responseBody!!.articles
-            Truth.assertThat(articleList.size).isEqualTo(20)
-        }
+    fun getTopHeadlinesCorrectPage() = runBlocking {
+        enqueueMockResponse("newsresponse.json")
+        val responseBody = service.getTopHeadlines("us", 1).body()
+        val articleList = responseBody!!.articles
+        Truth.assertThat(articleList.size).isEqualTo(20)
     }
 
     @Test
-    fun getTopHeadlinesCorrectContent(){
-        runBlocking {
-            enqueueMockResponse("newsresponse.json")
-            val responseBody = service.getTopHeadlines("us", 1).body()
-            val articleList = responseBody!!.articles
-            val article = articleList[0]
-            Truth.assertThat(article.author).isEqualTo("Adam Teicher")
-        }
+    fun getTopHeadlinesCorrectContent() = runBlocking {
+        enqueueMockResponse("newsresponse.json")
+        val responseBody = service.getTopHeadlines("us", 1).body()
+        val articleList = responseBody!!.articles
+        val article = articleList[0]
+        Truth.assertThat(article.author).isEqualTo("Adam Teicher")
     }
 
     @After
