@@ -90,8 +90,6 @@ class SavedFragment : Fragment() {
             layoutManager = LinearLayoutManager(activity)
             adapter = newsAdapter
         }
-
-        viewModel.getNewsHeadlines(country, page)
     }
 
     private fun observeViewModels() = with(binding){
